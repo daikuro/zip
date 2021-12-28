@@ -1,9 +1,3 @@
-# install
-
-```
-go get github.com/daikuro/zip
-```
-
 This fork add support for Standard Zip Encryption.
 
 The work is based on https://github.com/alexmullins/zip
@@ -15,6 +9,12 @@ zip.StandardEncryption
 zip.AES128Encryption
 zip.AES192Encryption
 zip.AES256Encryption
+```
+
+# install
+
+```
+go get github.com/daikuro/zip
 ```
 
 ## Warning
